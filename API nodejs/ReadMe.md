@@ -3,7 +3,7 @@
 ### run "nodemon server"
 
 ### If you receive Database Error ,say "not connected" 
-### change the credential that matches your MongoDB atlas server
+### change the credential that matches your MongoDB atlas server in app.js line 8
 
 
 
