@@ -7,14 +7,15 @@
 
 ---
 ---
-API end points
-##gets all notes **GET /api/notes
+### API end points
 
- ##get single notes **GET /api/notes/:id
+## gets all notes **GET /api/notes
+
+ ## get single notes **GET /api/notes/:id
  
-##modifye note **PUT /api/notes/:id
+## modifye note **PUT /api/notes/:id
 
-##delete note **DELETE /api/note/:id
+## delete note **DELETE /api/note/:id
 
 
 ## Thank You 
